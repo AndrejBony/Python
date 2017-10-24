@@ -13,8 +13,9 @@ keys = Counter()
 for line in f:
     # How many pieces of each Composer
     composer = regexComposer.match(line)
-    if composer is not None:     
-        comps[composer.group(1)] += 1    
+    if composer is not None:
+        if composer.group(1).strip() != "":
+             comps[composer.group(1).strip()] += 1    
     
     # How many pieces of each Century
     year = regexCentury.match(line) 
@@ -25,7 +26,7 @@ for line in f:
             regexYear = re.compile(r"\d{3,4}")
             y = regexYear.match(i)
             if y is not None:
-                cent = y.group(0)
+                cent = y.group(0).strip()
                 cent = (int(cent) - 1) / 100 + 1 
                 cents[int(cent)] += 1
     
@@ -40,7 +41,7 @@ for line in f:
             keys["key c minor"] += 1
 
 # Prints composers 
-for k, v in comps.items():
+for k, v in sorted(comps.items()):
     print(k + ": " + repr(v))
 
 print("\n")
