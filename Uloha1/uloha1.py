@@ -2,7 +2,7 @@
 import re
 from collections import Counter
 
-f = open(r'scorelib.txt', 'r', encoding = "UTF-8")
+f = open(r'scorelib.txt', 'r', encoding = "utf-8")
 regexComposer = re.compile( r"Composer: (.*)" )
 regexCentury = re.compile( r"Composition Year: (.*)" )
 regexTitle = re.compile( r"Title: (.*)")
