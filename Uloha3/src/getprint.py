@@ -20,8 +20,8 @@ if not composers:
 else: 
     for comp in composers:  
         d = {}
-        d["composer"] = comp
-        json.dump(d, sys.stdout, indent=2 )
+        d["composer"] = comp[0]
+        json.dump(d, sys.stdout, indent=2)   
 
 conn.commit()
 
