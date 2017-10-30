@@ -9,7 +9,7 @@ def find_composers(str):
     composers = c.execute(  "SELECT s.id, p.name, s.genre, s.key, s.incipit, s.year, e.name, e.year, prt.partiture " +
                             "FROM person AS p JOIN score_author AS sa ON p.id = sa.composer " + 
                                              "JOIN score AS s ON s.id = sa.score " +
-                                             "JOIN edition AS e ON e.score = s.id " +
+                                             "JOIN edition AS e ON s.id = e.score " +
                                              "JOIN print AS prt ON prt.edition = e.id " + 
                                              "WHERE p.name LIKE (?)", ['%'+ str +'%'])
     return composers.fetchall()
