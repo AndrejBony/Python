@@ -32,20 +32,20 @@ for i in range(0, len(data)):
 # 1. exercise
 source = ColumnDataSource(data=dict(x = name, y = share, color = color) )
     
-p = figure(title = "Bar plot of share of parties", 
+p1 = figure(title = "Bar plot of share of parties", 
            x_axis_label = "Party", 
            y_axis_label = "Share", 
            x_range = name, 
            y_range = ranges.Range1d(start = 0, end = 31),
-           plot_width = 7000)
+           plot_width = 6000)
            
 labels = LabelSet(x='x', y='y', text='y', level='glyph', x_offset= -13.5, y_offset=0, source=source, render_mode='canvas')
            
-p.vbar( x = 'x', top = 'y', color = 'color', line_color = 'black', width = 0.8, source = source)
-p.add_layout(labels)
+p1.vbar( x = 'x', top = 'y', color = 'color', line_color = 'black', width = 0.8, source = source)
+p1.add_layout(labels)
 
 output_file("bar_plot.html")
-#show(p)
+show(p1)
 
 # 2. exercise
 name2 = []
@@ -65,18 +65,19 @@ color2.append("grey")
 
 source = ColumnDataSource(data=dict(x = name2, y = share2, color = color2) )
         
-p = figure(title = "Bar plot of share of big parties", 
+p2 = figure(title = "Bar plot of share of big parties", 
            x_axis_label = "Party", 
            y_axis_label = "Share", 
            x_range = name2, 
            y_range = ranges.Range1d(start = 0, end = 31))
            
-p.vbar( x = 'x', top = 'y', color = 'color', line_color = 'black', width = 0.8, legend = 'x', source = source)
-p.legend.location = "top_left"
+p2.vbar( x = 'x', top = 'y', color = 'color', line_color = 'black', width = 0.8, legend = 'x', source = source)
+p2.legend.location = "top_left"
+
 output_file("bar_plot_big_parties.html")
+show(p2)
 
-
-
+# 3. exercise
 percents = []
 count = 0
 for i in range(0, len(share2)):
@@ -89,12 +90,13 @@ end = [p*2*pi for p in percents[1:]]
 
 source = ColumnDataSource(data=dict(start = start, end = end, color = color2, label = name2) )
 
-p = figure(title = "Pie chart of share of parties", x_range = [-10, 10])
-p.wedge( x = 0, y = 0, radius = 5,
-start_angle = 'start',
-end_angle = 'end',
-color = 'color',
-legend = 'label',
-source = source )
+p3 = figure(title = "Pie chart of share of parties", x_range = [-10, 10])
+p3.wedge(x = 0, y = 0, radius = 5,
+         start_angle = 'start',
+         end_angle = 'end',
+         color = 'color',
+         legend = 'label',
+         source = source )
 
 output_file("pie_chart.html")
+show(p3)
