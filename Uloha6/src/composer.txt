@@ -1,0 +1,1103 @@
+{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantata",
+  "Key": null,
+  "Incipit": "treble 2/4 c4 d8 e8 |",
+  "Composition year": 1728,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "g-d3, violin,  part",
+    "2": "C2-c, cello, part ",
+    "3": "c-e3, cis"
+  }
+}{
+  "Composer": "Bach, Carl Philip Emanuel",
+  "Genre": "",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach J S",
+  "Genre": "",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "kant\u00e1ta",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "quintet for traverso, oboe, violin, viola, cello and continuo ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {
+    "1": "oboe 1"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "solo, orchestra, choir ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1",
+    "2": "oboe 2"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "solo, orchestra, choir ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "quintet for traverso, oboe, violin, cello, continuo ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate for bass, oboe, strings, continuo ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "2 voice ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "quintett for traverso, oboe, violin, viola and continuo ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "double concerto for 2 violins ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "violin 1",
+    "2": "violin 2 ",
+    "3": "2 violins and piano arrangement "
+  }
+}{
+  "Composer": "Bach, Carl Philip Emanuel",
+  "Genre": "duo flauto and violin senza bass ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "orchestra  ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "2": "oboe 2"
+  }
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe primo  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1 ",
+    "2": "oboe 2 ",
+    "3": "oboe 3"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "2": "oboe 2"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": " "
+  }
+}{
+  "Composer": "Fahrbach, Joseph",
+  "Genre": "bassoon etudes ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate (soprano, 2 oboes and continuo) ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Dettelbach, Pater Gaudentius",
+  "Genre": "",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "clarina 2  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1 ",
+    "2": "oboe 2  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1 and oboe d'amore 1  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1",
+    "2": "oboe d'amore 1 ",
+    "3": "oboe 2",
+    "4": "oboe d'amore 2",
+    "5": "text  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1",
+    "2": "oboe 2  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "oboe concerto ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "violin  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate  ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe",
+    "2": "continuo "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "violin 1 (oboe ad lib.) "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1",
+    "2": "oboe 2  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1 and 2 (incomplete, solo aria)",
+    "2": "text  "
+  }
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "quintett for traverso, oboe, violin, cello and harpsichord obligato ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Christian",
+  "Genre": "quintett for traverso, oboe, violin, cello and harsichord obligato ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate  ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe and oboe da caccia (solo arias)",
+    "2": "text "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, aria for soprano, oboe and continuo ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philip Emanuel",
+  "Genre": "oboe concerto ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe and piano reduction "
+  }
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": 1768,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": 1768,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "Oboe & Oboe d'amore 1",
+    "2": "Oboe & Oboe d'amore 2",
+    "3": "Oboe da caccia 1",
+    "4": "Oboe da caccia 2 "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "Oboe & Oboe d'amore 1",
+    "2": "Oboe & Oboe d'amore 2",
+    "3": "Oboe da caccia 1",
+    "4": "Oboe da caccia 2 "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "oboe & oboe d'amore orchestra excerpts",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Carl Philipp Emanuel",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord  ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Offenbach, Jacques",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "mass, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "mass, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "mass, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "mass, oboe (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate, oboe (incomplete) ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe  "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate (incomplete) for soprano, oboe and continuo ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate (incomplete) for soprano, oboe and continuo ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "oboe concerto ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe solo ",
+    "2": "piano reduction"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "arrangement oboe solo ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "piano ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "piano",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "recitativo tenor, 2 oboe d'amore and continuo",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "recitativo alto, 2 oboe d'amore and continuo ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord ",
+  "Key": null,
+  "Incipit": null,
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate oboe d'amore, bass, strings, continuo (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {
+    "1": "oboe d'amore"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "soprano, oboe d'amore, strings and continuo (incomplete)",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe d'amore (non transposed)"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantata",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantata",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "2": "oboe 2 (incomplete)"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "aria soprano, traverso, continuo",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantata",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "corno (incomplete) "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "transcription sonata oboe obligato harpsichord",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "harpsichord",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {}
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "alto, oboe d'amore + strings",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "Y",
+  "Voice": {
+    "1": "oboe d'amore I",
+    "3": "violino II",
+    "4": "viola"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "cantate",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe d'amore (incomplete)"
+  }
+}{
+  "Composer": "Bach, Joseph Sebastian",
+  "Genre": "cantate",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe "
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "orchestra & choir",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe and oboe d'amore I",
+    "2": "oboe II"
+  }
+}{
+  "Composer": "Bach, Johann Sebastian",
+  "Genre": "solo, orchestra, choir ",
+  "Key": null,
+  "Incipit": "",
+  "Composition year": null,
+  "Edition": null,
+  "Publication year": null,
+  "Partiture": "N",
+  "Voice": {
+    "1": "oboe 1",
+    "2": "oboe 2"
+  }
+}
